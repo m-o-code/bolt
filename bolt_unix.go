@@ -3,7 +3,6 @@
 package bolt
 
 import (
-	//"fmt"
 	"os"
 	"syscall"
 	"time"
